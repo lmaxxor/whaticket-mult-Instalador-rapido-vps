@@ -10,7 +10,7 @@ mysqlRootPassword="Aceleron0@"	## Adicone a senha de root para o mysql
 
 
 instName="${subDomain}"
-backendName="${instName}api"
+backendName="api"
 backendPort="9${numberSequencial3Digites}"
 frontendPort="3${numberSequencial3Digites}"
 
