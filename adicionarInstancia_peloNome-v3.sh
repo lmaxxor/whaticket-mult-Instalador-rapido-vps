@@ -1,6 +1,6 @@
 #! /bin/sh
 domain='zetastore.com.br' ## Adicione o seu dominio
-subDomain='app.zetastore.com.br' ## Adicione o seu sub dominio 
+subDomain='app' ## Adicione o seu sub dominio 
 numberSequencial3Digites='001'  ## Adcione um numero Sequencial com 3 digitos não pode repetir de 000 a 999
 mysqlTablePassword="Aceleron0@" ## Adicone a senha que deseja utilizar para tabela do mysql
 mysqlRootPassword="Aceleron0@"	## Adicone a senha de root para o mysql 
